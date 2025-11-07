@@ -20,14 +20,14 @@
 <details open>
 <summary><h2 align="center">Programming Languages</h2></summary>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,rust,python,cpp,c,ts,js,html,css,sql&perline=10"/>
+<img src="https://skillicons.dev/icons?i=assembly,java,rust,python,cpp,js,html,css,sql&perline=10"/>
 </p>
 </details>
 
 <details open>
 <summary><h2 align="center">Frameworks & Tools</h2></summary>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=springboot,tensorflow,vue,fastapi,flask,docker,git,vscode,heroku,maven,nodejs&perline=10"/>
+<img src="https://skillicons.dev/icons?i=springboot,powershell,tensorflow,vue,git,vscode,maven,nodejs&perline=10"/>
 </p>
 </details>
 
