@@ -1,69 +1,52 @@
-# Hi, I'm Astro778
+# Astro778
 
-I am an 18-year-old passionate software developer specialized in **Java, Rust, Python**, and system-level programming.  
-I focus on building **scalable applications**, exploring **AI**, and mastering **low-level systems**.  
-
----
-
-## 🚀 What I Do
-
-- Build **real-world projects** from scratch
-- Develop **REST APIs**, **database systems**, and backend solutions
-- Work on **AI, machine learning, and data science**
-- Explore **low-level programming** and system architecture
-- Optimize code with **Rust, Java, Python, C++**
+## About Me
+I am a software engineer passionate about full-stack development, artificial intelligence, and system programming.  
+I focus on creating scalable architectures, clean and maintainable code, and innovative solutions that solve real-world problems.
 
 ---
 
-## 💻 Languages I Program With
-
-<details>
-<summary>Click to expand</summary>
+## Programming Languages
 
 | Java | Rust | Python | C++ |
 |------|------|--------|-----|
-| ![Java](https://raw.githubusercontent.com/github/explore/main/topics/java/java.png) | ![Rust](https://raw.githubusercontent.com/github/explore/main/topics/rust/rust.png) | ![Python](https://raw.githubusercontent.com/github/explore/main/topics/python/python.png) | ![C++](https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png) |
-
-</details>
+| <img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" width="80" /> | <img src="https://raw.githubusercontent.com/github/explore/main/topics/rust/rust.png" width="80" /> | <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" width="80" /> | <img src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" width="80" /> |
 
 ---
 
-## 🛠 Tools & Frameworks
+## Frameworks & Tools
 
-<details>
-<summary>Click to expand</summary>
-
-| Spring Boot | TensorFlow | Vue.js | Docker |
-|-------------|------------|--------|--------|
-| ![Spring Boot](https://raw.githubusercontent.com/github/explore/main/topics/spring-boot/spring-boot.png) | ![TensorFlow](https://raw.githubusercontent.com/github/explore/main/topics/tensorflow/tensorflow.png) | ![Vue.js](https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png) | ![Docker](https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png) |
-
-</details>
+| Spring Boot | TensorFlow | Vue.js | Docker | Git | Maven |
+|-------------|-------------|---------|--------|-----|-------|
+| <img src="https://raw.githubusercontent.com/github/explore/main/topics/spring-boot/spring-boot.png" width="80" /> | <img src="https://raw.githubusercontent.com/github/explore/main/topics/tensorflow/tensorflow.png" width="80" /> | <img src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png" width="80" /> | <img src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" width="80" /> | <img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" width="80" /> | <img src="https://raw.githubusercontent.com/github/explore/main/topics/maven/maven.png" width="80" /> |
 
 ---
 
-## 🌟 Featured Projects
-
-<details>
-<summary>Click to expand</summary>
+## Featured Projects
 
 | Project | Description | Link |
 |---------|-------------|------|
-| Mega Project | REST API system with database backend, Spring Boot & Rust | [GitHub](https://github.com/Astro778/mega-project) |
-| AI Assistant | NLP and Machine Learning project using Python & TensorFlow | [GitHub](https://github.com/Astro778/ai-assistant) |
-| Low-Level OS | Experimental OS built with Rust and assembly | [GitHub](https://github.com/Astro778/low-level-os) |
-
-</details>
+| **Mega Project** | Scalable full-stack application with Java backend and Rust optimization | [GitHub › mega-project](https://github.com/Astro778/mega-project) |
+| **AI Assistant** | Machine learning and NLP pipelines using Python & TensorFlow | [GitHub › ai-assistant](https://github.com/Astro778/ai-assistant) |
+| **Low-Level OS** | Experimental operating system built with Rust and Assembly | [GitHub › low-level-os](https://github.com/Astro778/low-level-os) |
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
-![Astro778's GitHub stats](https://github-readme-stats.vercel.app/api?username=Astro778&show_icons=true&theme=dark&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Astro778&layout=compact&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Astro778&show_icons=true&theme=dark&count_private=true" width="450" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astro778&layout=compact&theme=dark" width="320" />
+</p>
 
 ---
 
-## 📫 Contact Me
+## Contact
 
-- Email: carcaricky@gmail.com
+- **Email:** carcaricky@gmail.com  
+- **Portfolio:** [https://your-website.com](https://your-website.com)  -> CURRENTLY WORKING ON IT!
+---
+
+## Notes
+This profile README highlights my professional experience, skills, and personal projects.  
+It is regularly updated to reflect new technologies, achievements, and contributions.
