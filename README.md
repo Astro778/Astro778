@@ -51,9 +51,8 @@
 <details open>
 <summary><h2 align="center">Contact Me</h2></summary>
 <p align="center">
-Email: astro778@example.com  
-Portfolio: [https://astro778.dev](https://astro778.dev)  
-Discord: [Astro778#7780](https://discord.com/users/1302679012124135587)  
+Email: carcaricky@gmail.com    
+Discord: [astro_is](https://discord.com/users/1302679012124135587)  
 
 </p>
 </details>
